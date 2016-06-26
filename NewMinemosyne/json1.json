@@ -1,0 +1,26 @@
+﻿{
+  "Title": "Kategoriler",
+  "Kategoriler": [
+    {
+      "ID": "02411ed4-a7ea-4f49-b537-997dc58acfbc",
+      "Name": "Web",
+      "Description": "Web şifrelerim..",
+      "TheSifres": [
+        {
+          "ID": "cfccd7e3-3fab-4dd5-8785-712e8e1c0697",
+          "Title": "Facebook",
+          "Username": "facebook@mmm.com",
+          "Password": "123456",
+          "Description": "Facebook şifrem.."
+        },
+        {
+          "ID": "546db856-55dc-4b8c-9bea-6543a14fedbe",
+          "Title": "Twitter",
+          "Username": "twitter@mmm.com",
+          "Password": "654321",
+          "Description": "Twitter şifrem.."
+        }
+      ]
+    }
+  ]
+}

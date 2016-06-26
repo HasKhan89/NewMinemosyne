@@ -1,0 +1,12 @@
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\bin\Debug\NewMinemosyne.exe.config
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Form1.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.AnahtarForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.ContainerDuzenleForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.HakkimdaForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.KategoriDuzenleForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.KategoriEkleForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.TheSifreDuzenleForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Forms.TheSfireEkleForm.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\NewMinemosyne\NewMinemosyne\obj\Debug\NewMinemosyne.csproj.GenerateResource.Cache
